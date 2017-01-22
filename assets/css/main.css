@@ -748,6 +748,7 @@
 
 	body {
 		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		/*background-image: url("images/overlay.png"), url("http://res.cloudinary.com/rlee0525/image/upload/o_50/v1485078140/bg1_tqxbq3.jpg");*/
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -1074,6 +1075,7 @@
 	#main {
 		position: relative;
 		overflow: hidden;
+		border-radius: 15px;
 	}
 
 	.panel {
