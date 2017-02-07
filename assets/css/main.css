@@ -2515,7 +2515,15 @@
 			.spotlight .image img {
 				border-radius: 0;
 				width: 100%;
+				filter: brightness(0.75);
 			}
+
+			.spotlight .image img:hover {
+				border-radius: 0;
+				width: 100%;
+				filter: brightness(1);
+			}
+
 
 		.spotlight .content {
 			padding: 2em 4em 0.1em 4em ;
