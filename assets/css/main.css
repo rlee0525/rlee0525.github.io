@@ -3828,3 +3828,7 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	#underline-scrolly {
+		text-decoration: underline;
+	}
